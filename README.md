@@ -1,8 +1,3 @@
----
-typora-copy-images-to: ./assets
-typora-root-url: ..
----
-
 # Alfred-Workflows
 
 A collection of  [Alfred](https://www.alfredapp.com/) workflows. *(Tested only in version 3)*
