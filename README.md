@@ -1,8 +1,3 @@
----
-typora-copy-images-to: ./assets
-typora-root-url: ..
----
-
 # Alfred-Workflows
 
 A collection of  [Alfred](https://www.alfredapp.com/) workflows. *(Tested only in version 3)*
@@ -19,7 +14,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 ## Workflows
 
-#### Downie [download](https://github.com/Zrocky/Alfred-Workflows/raw/master/Downie.alfredworkflow)
+### Downie [download](https://github.com/Zrocky/Alfred-Workflows/raw/master/Downie.alfredworkflow)
 
 Use [Downie 4](https://software.charliemonroe.net/downie/) app save video from the Internet .
 
@@ -29,7 +24,7 @@ You can enter a video link in the command box or save the link directly to the c
 
 
 
-#### Things3 Quick Entry [download](https://github.com/Zrocky/Alfred-Workflows/raw/master/Thing3%20Quick%20Entry.alfredworkflow)
+### Things3 Quick Entry [download](https://github.com/Zrocky/Alfred-Workflows/raw/master/Thing3%20Quick%20Entry.alfredworkflow)
 
 Quickly create [Things](https://culturedcode.com/things/) to do.
 
