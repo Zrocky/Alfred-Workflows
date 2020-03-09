@@ -21,7 +21,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 #### Downie [download](https://github.com/Zrocky/Alfred-Workflows/raw/master/Downie.alfredworkflow)
 
-*Use [Downie](https://software.charliemonroe.net/downie/) app save video from the Internet .*
+Use [Downie 4](https://software.charliemonroe.net/downie/) app save video from the Internet .
 
 You can enter a video link in the command box or save the link directly to the clipboard and press Enter.
 
