@@ -14,7 +14,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 ## Workflows
 
-### [Switch Bluetooth devices]([https://github.com/Zrocky/Alfred-Workflows/blob/master/Connect%20AirPods.alfredworkflow](https://github.com/Zrocky/Alfred-Workflows/blob/master/Connect AirPods.alfredworkflow))
+### [Switch Bluetooth devices](https://github.com/Zrocky/Alfred-Workflows/raw/master/Connect%20AirPods.alfredworkflow)
 
 This workflow contains two functions：
 
