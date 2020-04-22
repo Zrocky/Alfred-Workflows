@@ -14,7 +14,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 
 ## Workflows
 
-### Switch Bluetooth devices
+### [Switch Bluetooth devices]([https://github.com/Zrocky/Alfred-Workflows/blob/master/Connect%20AirPods.alfredworkflow](https://github.com/Zrocky/Alfred-Workflows/blob/master/Connect AirPods.alfredworkflow))
 
 This workflow contains two functions：
 
@@ -38,7 +38,7 @@ This workflow contains two functions：
 
 
 
-### Downie [download](https://github.com/Zrocky/Alfred-Workflows/raw/master/Downie.alfredworkflow)
+### [Downie](https://github.com/Zrocky/Alfred-Workflows/raw/master/Downie.alfredworkflow)
 
 Use [Downie 4](https://software.charliemonroe.net/downie/) app save video from the Internet .
 
@@ -48,7 +48,7 @@ You can enter a video link in the command box or save the link directly to the c
 
 
 
-### Things3 Quick Entry [download](https://github.com/Zrocky/Alfred-Workflows/raw/master/Thing3%20Quick%20Entry.alfredworkflow)
+### [Things3 Quick Entry](https://github.com/Zrocky/Alfred-Workflows/raw/master/Thing3%20Quick%20Entry.alfredworkflow)
 
 Quickly create [Things](https://culturedcode.com/things/) to do.
 
