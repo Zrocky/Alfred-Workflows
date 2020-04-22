@@ -17,6 +17,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
 ### Switch Bluetooth devices
 
 This workflow contains two functions：
+
 1. ##### Switching matched Bluetooth devices
 
   Enter "bt" to display the matching Bluetooth device, press enter key to switch
@@ -34,8 +35,6 @@ This workflow contains two functions：
   (2) Enter `btm` to switch to your most used Bluetooth device
 
   ![WX20200422-155818@2x](README.assets/WX20200422-155818@2x.png)
-
-
 
 
 
